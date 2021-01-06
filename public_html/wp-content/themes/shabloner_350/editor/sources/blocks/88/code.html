@@ -1,0 +1,17 @@
+{if_exists:title}
+<div class="heading-block divcenter center" style="max-width: 600px">
+<h2 class="notransform t600 mb-2" style="">{title}</h2>
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+{/if_exists:title}
+
+{items}
+<div class="col_one_fourth {alternate:col_last:4} nobottommargin center">
+	{if_exists:field_1}<i class="i-plain i-xlarge divcenter nobottommargin {field_1}"></i>{/if_exists:field_1}
+	<div class="counter counter-large color" style=""><span data-from="0" data-to="{title}" data-refresh-interval="50" data-speed="1000"></span></div>
+	<h5>{text}</h5>
+</div>
+{clear:4}
+{/items}
+					
+

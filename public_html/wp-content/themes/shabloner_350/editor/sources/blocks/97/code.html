@@ -1,0 +1,34 @@
+<div class="col_one_fourth">
+
+[menu_second]
+
+{if_exists:title}
+<div class="topmargin">
+
+<h3>Скидка 10%</h3>
+{if_exists:image}<p><img src="{image}"></p>{/if_exists:image}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+{if_exists:url}
+<p class="nobottommargin"><a class="noleftmargin nobottommargin button button-rounded [default_button_class]" href="{url}">{button_text}</a></p>
+{/if_exists:url}
+
+</div>	
+{/if_exists:title}
+
+</div>	
+
+<div class="col_three_fourth col_last">
+
+<div class="text-muted bottommargin-sm">[breadcrumbs]</div>
+
+[page_content_before]
+<div class="heading-block ">
+	<h1>[content_title]</h1>
+	
+</div>
+
+<div>
+[content]    
+</div>
+[page_content_after]
+</div>

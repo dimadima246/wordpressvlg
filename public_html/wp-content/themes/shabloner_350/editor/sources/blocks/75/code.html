@@ -1,0 +1,25 @@
+<div class="container [class]">
+    
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="capitalize t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+<div class="row justify-content-between">
+
+{items}
+<div class="col-lg-6 {alternate:mt-lg-0:2}">
+<div class="media row">
+{if_exists:image}<img class="col-sm-5 p-5 p-sm-0 pr-sm-3" src="{image}" width="230">{/if_exists:image}
+<div class="col-sm-7 media-body">
+<h3 class="mb-2"><a href="{url}">{title}</a></h3>
+{if_exists:text}<p class="mb-3 text-black-50">{text}</p>{/if_exists:text}
+{if_exists:url}<a href="{url}" class="button [default_button_class] button-rounded t400 ls0 nomargin nott">{button_text}</a>{/if_exists:url}
+</div>
+</div>
+</div>
+{clear:2}
+{/items}
+
+</div>
+</div>

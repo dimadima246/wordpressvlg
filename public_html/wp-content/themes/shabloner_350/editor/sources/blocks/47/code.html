@@ -1,0 +1,33 @@
+<section id="slider" class="slider-element slider-parallax swiper_wrapper clearfix [class]" data-loop="true" style="[style]" >
+
+	<div class="slider-parallax-inner">
+
+		<div class="swiper-container swiper-parent">
+			<div class="swiper-wrapper">
+			    {items}
+				<div class="swiper-slide {field_1}" style="background-image: url('{image}');">
+				    <div class="overfill" style="background-color: rgba(0, 0, 0, [overfill]);"></div>
+					<div class="container clearfix">
+						<div class="slider-caption {field_2}">
+							<h2>{title}</h2>
+							{if_exists:text}
+							<p class="d-none d-sm-block" data-caption-delay="[animation_delay]">{text}</p>
+							{/if_exists:text}
+							
+							{if_exists:url}
+							<p class="d-none d-sm-block" data-caption-delay="[animation_delay]"><a href='{url}' class="button button-large button-rounded [button_class] [default_button_class]">{button_text}</a></p>
+							{/if_exists:url}
+						</div>
+					</div>
+				</div>
+				{/items}
+				
+			</div>
+			<div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
+			<div class="slider-arrow-right"><i class="icon-angle-right"></i></div>
+			<!--<div class="slide-number"><div class="slide-number-current"></div><span>/</span><div class="slide-number-total"></div></div>-->
+		</div>
+
+	</div>
+
+</section>

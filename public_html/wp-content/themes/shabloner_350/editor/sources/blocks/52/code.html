@@ -1,0 +1,38 @@
+		<section id="slider" class="slider-element slider-parallax dark [class]" style="background: url('{image}') left 50% top 50%; background-size: cover; height:[height]; [style]">
+			<div class="overfill" style="background-color: rgba(0, 0, 0, [overfill]);"></div>
+			<div class="slider-parallax-inner dark z1000">
+				<div class="container clearfix">
+					<div class="vertical-middle ">
+					    <div class="col_two_third [text_align]">
+					        {if_exists:title}
+    					    <div class="emphasis-title">
+    							<h2>{title}</h2>
+    							{if_exists:text}<p class="lead topmargin-sm">{text}</p>{/if_exists:text}
+    						</div>	
+    						{/if_exists:title}
+					    </div>
+					    <div class="col_one_third col_last media-ipad">
+							<div class="allpadding-sm slider_form_block" style="background:rgba(255,255,255,[transparency]);">
+								<h3>[title_form]</h3>    
+								<p>[desc_form]</p>
+								<form style="" class="ajax_form" data-url="[template_directory]forms/contact_form.php"> <!-- max-width: 25rem; -->
+									<div class="form-group">
+										<input type="text" class="form-control not-dark" id="" name="data[]" placeholder="* Имя:">
+									</div>
+									<div class="form-group">
+										<input type="text" class="form-control not-dark" id="" name="data[]" placeholder="* Телефон:">
+									</div>
+									<div class="form-group">
+									<small id="" class="form-text text-muted">Отправляя данную форму, вы соглашаетесь c <a target="_blank" href="[home_url]/page/politika-konfidencialnosti">Политикой конфиденциальности</a></small>
+									</div>
+									<button type="submit" class="button button-xxlarge button-rounded [default_button_class]">{button_text}</button>
+								</form>	
+
+							</div>
+						</div>
+					    
+					</div>
+				</div>
+				
+			</div>
+		</section>

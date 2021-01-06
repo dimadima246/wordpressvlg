@@ -1,0 +1,13 @@
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="notransform t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+<div class="masonry-thumbs grid-4 clearfix"  data-lightbox="gallery">
+    {items}
+	<a href="{image}" data-lightbox="gallery-item">
+		<img src="{image}">
+		<div class="overlay"><div class="overlay-wrap"><i class="icon-line-plus"></i></div></div>
+	</a>
+	{/items}
+</div>

@@ -1,0 +1,25 @@
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="notransform t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+
+<div id="oc-testi" class="owl-carousel testimonials-carousel carousel-widget" data-margin="20" data-items-sm="1" data-items-md="2" data-items-xl="3">
+    {items}
+	<div class="oc-item">
+		<div class="testimonial">
+			<div class="testi-image">
+				<a href="#"><img src="{image}"></a>
+			</div>
+			<div class="testi-content">
+				<p>{text}</p>
+				{if_exists:title}
+				<div class="testi-meta">
+					{title}
+				</div>
+				{/if_exists:title}
+			</div>
+		</div>
+	</div>
+    {/items}
+</div>

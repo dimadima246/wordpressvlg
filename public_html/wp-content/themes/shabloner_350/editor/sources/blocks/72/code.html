@@ -1,0 +1,21 @@
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="notransform t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+{items}
+	<div class="col_one_third {alternate:col_last:3} nobottommargin">
+		<div class="feature-box center media-box fbox-bg">
+			<div class="fbox-media">
+				<a href="{url}"><img class="image_fade" src="{image}"></a>
+			</div>
+			<div class="fbox-desc">
+				<h3>{title}<span class="subtitle">{text}</span></h3>
+				{if_exists:field_1}<p>{field_1}</p>{/if_exists:field_1}
+				{if_exists:url}<p><a href="{url}" class="btn button [default_button_class]">{button_text}</a></p>{/if_exists:url}
+			</div>
+		</div>
+	</div>
+
+	{clear:3}
+{/items}

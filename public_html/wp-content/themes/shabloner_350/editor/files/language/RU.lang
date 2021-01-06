@@ -1,0 +1,14 @@
+default_address|Тверская 17, офис 738
+default_phone|+7 495 725 25 25
+default_email|user@mail.com
+default_schedule|Ежедневно с 9:00 до 18:00
+theme_no_activate|Шаблонер: тема не активирована
+activate_theme|Активировать тему
+page_role_index|WordPress: Главная
+page_role_page|WordPress: Страница
+page_role_single|WordPress: Запись
+page_role_archive|WordPress: Вывод записей
+page_role_search|WordPress: Поиск
+page_role_woocommerce|WordPress: WooCommerce
+page_role_404|WordPress: 404
+page_role_other|Произвольная страница

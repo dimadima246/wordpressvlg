@@ -1,0 +1,33 @@
+		<section id="slider" class="slider-element slider-parallax dark [class]" style="background: url('{image}') left 50% top 50%; background-size: cover; height:[height]; [style]">
+			<div class="overfill" style="background-color: rgba(0, 0, 0, [overfill]);"></div>
+			<div class="slider-parallax-inner dark z1000">
+				<div class="container clearfix">
+					<div class="vertical-middle [text_align]">
+					    <div class="[caption_block]">
+    					    <div class="emphasis-title">
+    							{if_exists:title}<h2>{title}</h2>{/if_exists:title}
+    							{if_exists:text}<p class="lead topmargin-sm">{text}</p>{/if_exists:text}
+    						</div>	
+							<form action="#" method="post" role="form" class="landing-wide-form clearfix ajax_form" data-url="[template_directory]forms/contact_form.php">
+								<div class="col_four_fifth nobottommargin">
+								<div class="col_one_third nobottommargin">
+								<input type="text" class="form-control not-dark" value="" placeholder="* Имя:">
+								</div>
+								<div class="col_one_third nobottommargin">
+								<input type="email" class="form-control  not-dark" value="" placeholder="* Почта:">
+								</div>
+								<div class="col_one_third col_last nobottommargin">
+								<input type="text" class="form-control  not-dark" value="" placeholder="* Телефон:">
+								</div>
+								</div>
+								<div class="col_one_fifth col_last nobottommargin">
+								<button class="btn btn-lg  btn-block nomargin button [default_button_class]" value="submit" type="submit" style="">{button_text}</button>
+								</div>
+							</form>		
+						</div>				
+
+					</div>
+				</div>
+				
+			</div>
+		</section>

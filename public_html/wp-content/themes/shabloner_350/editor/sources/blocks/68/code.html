@@ -1,0 +1,82 @@
+		<!-- Footer
+		============================================= -->
+		<footer id="footer" class="dark footer_5" style="background: url('{image}') left 50% top 50% repeat; background-size: cover; background-color: #333;">
+		<div class="overfill" style="background-color: rgba(0, 0, 0, [transparent]);	"></div>
+		
+			<div class="container z1000">
+
+				<!-- Footer Widgets
+				============================================= -->
+				<div class="footer-widgets-wrap clearfix">
+
+					<div class="col_one_third ">
+
+						<div class="widget clearfix" style="margin-bottom: -20px;">
+							<div class="fancy-title title-bottom-border">
+								<h3 class="">{title}</h3>
+							</div>						
+							<p>{text}</p>
+
+						</div>
+
+
+						
+
+					</div>	
+					
+					<div class="col_one_third ">
+
+						<div class="widget clearfix" style="margin-bottom: -20px;">
+							<div class="fancy-title title-bottom-border">
+								<h3 class="">Подписывайтесь на нас</h3>
+							</div>						
+
+							<div class="socials_list">
+							<?=showSocials('<a href="[link]" class=""><i class="social-icon si-colored si-[social] icon-[social] "></i></a>')?>
+							</div>
+
+						</div>
+
+					</div>	
+					
+					<div class="col_one_third col_last">
+
+						<div class="widget clearfix" style="margin-bottom: -20px;">
+
+							<div class="fancy-title title-bottom-border">
+								<h3 class="">Контакты</h3>
+							</div>				
+							
+							<div class=" icons_block">
+								<p><i class="icon-phone color"></i> <span>[phone]</span></p>
+								<p><i class="icon-map-marker color"></i> <span>[address]</span></p>
+								<p><i class="icon-line-mail color"></i> <span>[email]</span></p>
+							</div>
+							
+							{if_exists:button_text}
+							<div class="topmargin-xs">
+							<button type="button"  data-url="<?=get_template_directory_uri()?>/forms/basic.php" class="dialog_open noleftmargin button button-rounded button-color [button_class] [default_button_class]" >{button_text}</button>
+							</div>	
+							{/if_exists:button_text}
+						</div>
+
+					</div>	
+					
+					
+				</div><!-- .footer-widgets-wrap end -->
+
+			</div>
+
+			<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
+
+				<div class="container clearfix center">
+
+					[site_name] &copy; [year] {url}
+
+				</div>
+
+			</div><!-- #copyrights end -->
+
+		</footer><!-- #footer end -->

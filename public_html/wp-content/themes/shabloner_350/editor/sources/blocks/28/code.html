@@ -1,0 +1,32 @@
+{if_exists:title}
+<div class="heading-block divcenter center" style="max-width: 600px">
+<h2 class="notransform t600 mb-2" style="">{title}</h2>
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+{/if_exists:title}
+
+<div id="posts" class="post-grid grid-container clearfix" data-layout="fitRows">
+[news_block_before]
+
+	<div class="entry clearfix nobottommargin ">
+	    
+		[post_image_before]
+		<div class="entry-image">
+			<a href="[post_link]"><img class="image_fade" src="[post_image]"></a>
+		</div>
+		[post_image_after]
+		
+		<div class="entry-title">
+			<h2><a href="[post_link]">[content_title]</a></h2>
+		</div>
+		<ul class="entry-meta clearfix">
+			<li><i class="icon-calendar3"></i> [post_date]</li>
+		</ul>
+		<div class="entry-content">
+			<p>[exerpt]</p>
+			<a href="[post_link]" class="more-link">Читать далее...</a>
+		</div>
+	</div>
+[news_block_after]  
+
+</div>

@@ -1,0 +1,20 @@
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="notransform t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+<div class="tabs tabs-responsive tab-nav tabs-justify clearfix" id="[block_prefix]">
+
+	<ul class="tab-nav [class] clearfix">
+	{items}    
+		<li><a href="#[block_prefix]_[item_int]">{title}</a></li>
+	{/items}    
+	</ul>
+
+	<div class="tab-container">
+	{items}    
+		<div class="tab-content clearfix" id="[block_prefix]_[item_int]">{text}</div>
+	{/items}    
+	</div>
+
+</div>

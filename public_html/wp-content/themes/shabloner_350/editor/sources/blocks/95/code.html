@@ -1,0 +1,22 @@
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="notransform t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+<div class="row m-0 dark clearfix" data-height-xs="500" data-height-sm="500" data-height-md="350" data-height-lg="350" data-height-xl="350">
+{items}
+<a href="{url}" class="col-md-4 image_fade border-right" style="background: url('{image}') no-repeat center center / cover;">
+<div class="overlay">
+<div class="text-overlay">
+<div class="text-overlay-title">
+{if_exists:title}<h3>{title}</h3>{/if_exists:title}
+</div>
+<div class="text-overlay-meta">
+<span>{button_text} &rarr;</span>
+</div>
+</div>
+</div>
+</a>
+{/items}
+
+</div>

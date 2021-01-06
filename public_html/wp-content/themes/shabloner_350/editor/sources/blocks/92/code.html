@@ -1,0 +1,41 @@
+{if_exists:title}
+<div class="heading-block divcenter center" style="max-width: 600px">
+<h2 class="notransform t600 mb-2" style="">{title}</h2>
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+{/if_exists:title}
+
+<div id="section-contact" class="page-section notoppadding">
+<div class="container clearfix">
+<div class="divcenter " style="max-width: 850px;">
+<div class="contact-widget">
+<div class="contact-form-result"></div>
+<form id="template" class="nobottommargin ajax_form" data-url="[template_directory]forms/contact_form.php">
+<div class="form-process"></div>
+<div class="col_one_third">
+<input type="text" id="" name="data[]" value="" class="sm-form-control border-form-control required" placeholder="Имя" />
+</div>
+<div class="col_one_third">
+<input type="text" id="" name="data[]" value="" class="sm-form-control border-form-control required" placeholder="Телефон" />
+</div>
+<div class="col_one_third col_last">
+<input type="email" id="" name="data[]" value="" class="sm-form-control border-form-control required" placeholder="Email" />
+</div>
+<div class="clear"></div>
+<div class="col_full">
+<textarea class="required sm-form-control border-form-control" name="data[]" rows="7" cols="30" placeholder="Сообщение"></textarea>
+</div>
+<div class="col_full center nobottommargin">
+<button class="button button-rounded button-large noleftmargin [default_button_class] " type="submit" value="submit">{button_text}</button>
+<br>
+<small style="display: block; font-size: 13px; margin-top: 15px;">Отправляя данную форму, вы соглашаетесь c <a target="_blank" href="[home_url]/page/politika-konfidencialnosti">Политикой конфиденциальности</a></small>
+</div>
+<div class="clear"></div>
+<div class="col_full hidden">
+<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" />
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>

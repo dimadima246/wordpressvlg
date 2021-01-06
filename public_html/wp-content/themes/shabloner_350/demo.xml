@@ -1,0 +1,2753 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Название компании</title>
+	<link>http://shabloner.ru</link>
+	<description>Ещё один сайт на WordPress</description>
+	<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+	<language>ru-RU</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://shabloner.ru</wp:base_site_url>
+	<wp:base_blog_url>http://shabloner.ru</wp:base_blog_url>
+
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[demo]]></wp:author_login><wp:author_email><![CDATA[demo@wordpress.org]]></wp:author_email><wp:author_display_name><![CDATA[demo]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[novosti]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Новости]]></wp:cat_name>
+	</wp:category>
+	<wp:term>
+		<wp:term_id><![CDATA[1]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[novosti]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Новости]]></wp:term_name>
+	</wp:term>
+	
+	<wp:category>
+		<wp:term_id>2</wp:term_id>
+		<wp:category_nicename><![CDATA[stati]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Статьи]]></wp:cat_name>
+	</wp:category>
+	<wp:term>
+		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[stati]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Статьи]]></wp:term_name>
+	</wp:term>
+	
+	<wp:term>
+		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[menu_main]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Главное меню]]></wp:term_name>
+	</wp:term>
+	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu_main]]></wp:term_slug><wp:term_name><![CDATA[Главное меню]]></wp:term_name>
+	
+	<wp:term>
+		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[menu_second]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Второе меню]]></wp:term_name>
+	</wp:term>
+	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu_second]]></wp:term_slug><wp:term_name><![CDATA[Второе меню]]></wp:term_name>
+	
+
+<generator>https://wordpress.org/?v=4.9.5</generator>
+
+
+	<item>
+		<title>Премиум шаблоны для сайтов</title>
+		<link>http://shabloner.ru/2020/11/17/premium-shablony-dlia-saitov/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[premium-shablony-dlia-saitov]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+				<category domain="category" nicename="stati"><![CDATA[Статьи]]></category>
+				<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Привет мир!</title>
+		<link>http://shabloner.ru/2020/11/17/privet-mir/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privet-mir]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+				<category domain="category" nicename="stati"><![CDATA[Статьи]]></category>
+				<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Внимание скидки!</title>
+		<link>http://shabloner.ru/2020/11/17/vnimanie-skidki/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[vnimanie-skidki]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+				<category domain="category" nicename="novosti"><![CDATA[Новости]]></category>
+				<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Ура! Мы запустили свой сайт!</title>
+		<link>http://shabloner.ru/2020/11/17/ura-my-zapustili-svoi-sait/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=4</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ura-my-zapustili-svoi-sait]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+				<category domain="category" nicename="novosti"><![CDATA[Новости]]></category>
+				<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+
+	<item>
+		<title>Политика конфиденциальности</title>
+		<link>http://shabloner.ru/2020/11/17/politika-konfidencialnosti/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Я согласен(на) на обработку моих персональных данных</p>	
+<p>Настоящим Я, действуя своей волей и в своем интересе, при размещении (вводе) своих персональных данных на Интернет сайте ____ общества с ограниченной ответственностью _________ (ИНН_________, ОГРН__________, далее - Оператор) подтверждаю свое согласие на обработку указанных мной персональных данных Оператором в целях предложения мне услуг, новых услуг, предлагаемых Оператором, в целях проведения опросов, анкетирования, рекламных и маркетинговых исследований в отношении услуг, предоставляемых Оператором, в том числе путем осуществления прямых контактов со мною посредством средств связи, указанных мной на настоящем сайте.Настоящее право (согласие) предоставляется на осуществление любых действий в отношении моих персональных данных, которые необходимы и желаемы для достижения вышеуказанных целей, включая, без ограничения, сбор, систематизацию, накопление, хранение, уточнение (обновление, изменение), использование, передачу, обезличивание, блокирование и уничтожение персональных данных, под которыми понимаются все данные, указанные мной на настоящем сайте.<br>Настоящим подтверждаю, что уведомлен о том, что обработка персональных данных осуществляется Оператором любым способом, в том числе как с использованием средств автоматизации (включая программное обеспечение), так и без использования средств автоматизации (с использованием различных материальных носителей, включая бумажные носители).</p>	
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[politika-konfidencialnosti]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>О компании</title>
+		<link>http://shabloner.ru/2020/11/17/o-kompanii/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>В этом блоке мы рекомендуем разместить информацию о Вашей организации, подчеркнуть ее значимость и надежность на рынке оказываемых услуг или предлагаемых товаров.</p>
+<p>Примечание. Обращаем Ваше внимание, что текстовая информация на сайте должна быть индивидуальной, не скопированной с других интернет-ресурсов, о чем указано в рекомендациях Яндекса: «Мы стараемся не индексировать или не ранжировать высоко сайты, копирующие информацию с других ресурсов и не создающие оригинального контента или сервиса».</p>
+<h3>Пример заполнения страницы:</h3>
+<p>Вас приветствует компания «…» &lt;введите название компании&gt;!</p>
+<p>…&lt;<em>введите название компании</em>&gt; &nbsp;— динамично развивающаяся компания в области/сфере … &lt;<em>укажите сферу деятельности</em>&gt;.</p>
+<p>Мы рады предложить вам широкий спектр услуг по … &lt;укажите предлагаемые услуги&gt; по самым выгодным ценам.</p>
+<p>или</p>
+<p>Мы рады предложить вам широкий ассортимент … &lt;<em>укажите предлагаемые товары</em>&gt; по самым выгодным ценам.</p>
+<p>Вот уже … &lt;<em>укажите стаж работы компании</em>&gt; лет наша компания занимает уверенные позиции на рынке и предоставляет только самые современные решения, позволяя нашим клиентам делать заказы через сайт.</p>
+<p>За годы успешной работы компания … &lt;<em>введите название компании</em>&gt; приобрела бесценный опыт, о чем свидетельствуют лестные отзывы наших клиентов.</p>
+<p>В случае если у Вас возникли вопросы при оформлении заказа, Вы всегда можете обратиться в наш справочный центр по телефону … &lt;<em>укажите номер телефона</em>&gt; или воспользовавшись онлайн-консультантом на сайте.</p>
+
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[o-kompanii]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Наши специалисты</title>
+		<link>http://shabloner.ru/2020/11/17/nashi-specialisty/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=7</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[nashi-specialisty]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Отзывы о нас</title>
+		<link>http://shabloner.ru/2020/11/17/otzyvy-o-nas/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>В этом блоке мы рекомендуем разместить информацию о Вашей организации, подчеркнуть ее значимость и надежность на рынке оказываемых услуг или предлагаемых товаров.</p>
+<p>Примечание. Обращаем Ваше внимание, что текстовая информация на сайте должна быть индивидуальной, не скопированной с других интернет-ресурсов, о чем указано в рекомендациях Яндекса: «Мы стараемся не индексировать или не ранжировать высоко сайты, копирующие информацию с других ресурсов и не создающие оригинального контента или сервиса».</p>
+<h3>Пример заполнения страницы:</h3>
+<p>Вас приветствует компания «…» &lt;введите название компании&gt;!</p>
+<p>…&lt;<em>введите название компании</em>&gt; &nbsp;— динамично развивающаяся компания в области/сфере … &lt;<em>укажите сферу деятельности</em>&gt;.</p>
+<p>Мы рады предложить вам широкий спектр услуг по … &lt;укажите предлагаемые услуги&gt; по самым выгодным ценам.</p>
+<p>или</p>
+<p>Мы рады предложить вам широкий ассортимент … &lt;<em>укажите предлагаемые товары</em>&gt; по самым выгодным ценам.</p>
+<p>Вот уже … &lt;<em>укажите стаж работы компании</em>&gt; лет наша компания занимает уверенные позиции на рынке и предоставляет только самые современные решения, позволяя нашим клиентам делать заказы через сайт.</p>
+<p>За годы успешной работы компания … &lt;<em>введите название компании</em>&gt; приобрела бесценный опыт, о чем свидетельствуют лестные отзывы наших клиентов.</p>
+<p>В случае если у Вас возникли вопросы при оформлении заказа, Вы всегда можете обратиться в наш справочный центр по телефону … &lt;<em>укажите номер телефона</em>&gt; или воспользовавшись онлайн-консультантом на сайте.</p>
+
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[otzyvy-o-nas]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Услуги</title>
+		<link>http://shabloner.ru/2020/11/17/uslugi/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=9</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[uslugi]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Юридическим лицам</title>
+		<link>http://shabloner.ru/2020/11/17/iuridicheskim-licam/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=10</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[iuridicheskim-licam]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>9</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Арбитражные споры</title>
+		<link>http://shabloner.ru/2020/11/17/arbitrazhnye-spory/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=11</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[arbitrazhnye-spory]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Юридическое сопровождение ТСЖ, ЖСК, УК</title>
+		<link>http://shabloner.ru/2020/11/17/iuridicheskoe-soprovozhdenie-tszh-zhsk-uk/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=12</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[iuridicheskoe-soprovozhdenie-tszh-zhsk-uk]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Юридическое сопровождение организации</title>
+		<link>http://shabloner.ru/2020/11/17/iuridicheskoe-soprovozhdenie-organizacii/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=13</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[iuridicheskoe-soprovozhdenie-organizacii]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Защита интеллектуальной собственности</title>
+		<link>http://shabloner.ru/2020/11/17/zashita-intellektualnoi-sobstvennosti/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=14</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[zashita-intellektualnoi-sobstvennosti]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Недвижимость, земля</title>
+		<link>http://shabloner.ru/2020/11/17/nedvizhimost-zemlia/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=15</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[nedvizhimost-zemlia]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Защита деловой репутации</title>
+		<link>http://shabloner.ru/2020/11/17/zashita-delovoi-reputacii/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=16</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[zashita-delovoi-reputacii]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Досудебное урегулирование</title>
+		<link>http://shabloner.ru/2020/11/17/dosudebnoe-uregulirovanie/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=17</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[dosudebnoe-uregulirovanie]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Исполнительное производство</title>
+		<link>http://shabloner.ru/2020/11/17/ispolnitelnoe-proizvodstvo/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ispolnitelnoe-proizvodstvo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Физическим лицам</title>
+		<link>http://shabloner.ru/2020/11/17/fizicheskim-licam/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=19</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[fizicheskim-licam]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>9</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Наследственные споры</title>
+		<link>http://shabloner.ru/2020/11/17/nasledstvennye-spory/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=20</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[nasledstvennye-spory]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Автоюрист</title>
+		<link>http://shabloner.ru/2020/11/17/avtoiurist/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=21</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[avtoiurist]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Трудовые споры</title>
+		<link>http://shabloner.ru/2020/11/17/trudovye-spory/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=22</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[trudovye-spory]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Семейные дела</title>
+		<link>http://shabloner.ru/2020/11/17/semeinye-dela/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=23</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[semeinye-dela]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Споры с банками</title>
+		<link>http://shabloner.ru/2020/11/17/spory-s-bankami/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=24</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[spory-s-bankami]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Споры со страховыми компаниями</title>
+		<link>http://shabloner.ru/2020/11/17/spory-so-strahovymi-kompaniiami/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[spory-so-strahovymi-kompaniiami]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Защита прав потребителей</title>
+		<link>http://shabloner.ru/2020/11/17/zashita-prav-potrebitelei/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=26</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[zashita-prav-potrebitelei]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Авторское право</title>
+		<link>http://shabloner.ru/2020/11/17/avtorskoe-pravo/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=27</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>Рыба в веб-дизайне</b> — временное наполнение макета страницы для имитации её законченного вида. У дизайнера не всегда есть под рукой материалы, которые планируется публиковать на веб-сайте и поэтому нужно использовать что-то иное чтобы показать как дизайн будет работать в естественных условиях. При этом рыбное содержимое не обязано обладать смыслом — здесь важно визуальное восприятие. Рыбным содержимым может быть не только текст, но и изображения (например, иллюстрации к статье, аватары пользователей, кадры из видео для видеоплеера, баннеры и т. д.). Дизайнер рыбу может придумать самостоятельно, а может скопировать с другого аналогичного сайта. В случае с текстом можно воспользоваться программой-бредогенератором или же вставить классический рыбный текст «Lorem ipsum».</p>
+
+<p>Для того, чтобы создать современный удобный веб-сайт сегодня совершенно не обязательно обладать навыками профессионального дизайнера-верстальщика. Больше не нужно месяцами изучать алгоритмы php и разбираться в хитросплетениях css разметки. Достаточно просто выбрать понравившийся премиум-шаблон и на его основе создать собственный готовый сайт. На рынке существует множество CMS (систем управление сайтом), но одним из наиболее практичных и универсальных решений это Wordpress. Он отлично подходит и для небольших сайтов-визиток, Landing page и для современных интернет-магазинов, а также больше корпоративных бизнес-порталов. Обладая большой универсальностью и практичностью, он также предлагает пользователю огромное количество уже готовых решений, с помощью которых можно получить готовый сайт в течение всего пары часов. Мы говорим о шаблонах.</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[avtorskoe-pravo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Акции</title>
+		<link>http://shabloner.ru/2020/11/17/akcii/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=28</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>В этом блоке мы рекомендуем разместить информацию о акциях, подчеркнуть их значимость.</p>
+<p>Примечание. Обращаем Ваше внимание, что текстовая информация на сайте должна быть индивидуальной, не скопированной с других интернет-ресурсов, о чем указано в рекомендациях Яндекса: «Мы стараемся не индексировать или не ранжировать высоко сайты, копирующие информацию с других ресурсов и не создающие оригинального контента или сервиса».</p>
+<h3>Пример наполнения подобного раздела:</h3>
+<p>В нашем магазине действуют различные гибкие скидки и акции. О появлении новых акций Вы всегда можете узнать из раздела “Статьи”. Следите за обновлениями, чтобы всегда быть в курсе последних выгодных предложений.</p>
+<p>На данный момент у нас действуют следующие виды скидок:</p>
+<ul>
+<li>
+<p><strong>Накопительная карта</strong>. При первой покупке Вы получите накопительную карту, на которую при каждом последующем приобретении будут зачисляться небольшие проценты от цены каждого купленного товара. Вы можете в любой момент использовать накопившуюся на карте сумму, чтобы оплатить покупку.</p>
+</li>
+<li>
+<p><strong>Акция “2 по цене 1”</strong>. Обращайте внимание на ценники. Оранжевым цветом (на сайте такие товары выделены иконкой “2=1”) выделены те товары, при покупке которых Вы получите второй экземпляр в подарок.</p>
+</li>
+<li>
+<p>Также на товары с красными ценниками (на сайте такие товары выделены маркером “Спецпредложение”) действует скидка 10%. Будьте внимательны при выборе.</p>
+</li>
+</ul>
+
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[akcii]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Контакты</title>
+		<link>http://shabloner.ru/2020/11/17/kontakty/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=29</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><strong>Телефон</strong><br>
++ 7 (123) 123-45-67</p>
+
+<p><strong>Прием звонков: </strong><br>
+с 9:00 до 20:00 (Пн-Пт)</p>
+
+<p><strong>Адрес</strong><br>
+123456, Россия, Москва, Тверская., 17, офис 123. Местный телефон: 101</p>
+
+<p><strong>Реквизиты компании</strong><br>
+ООО «Название компании» Юридический адрес: 123456, Россия, Москва, Тверская 127 ОГРН 12345632154654</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[kontakty]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Прайс-лист</title>
+		<link>http://shabloner.ru/2020/11/17/prais-list/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=30</guid>
+		<description></description>
+		<content:encoded><![CDATA[	<p>В этом блоке мы рекомендуем разместить прайс-лист на предлагаемые Вашей компанией товары или услуги.</p>
+<p>Примечание. Система управления позволяет создать прайс-лист в виде таблицы на сайте или импортировать таблицу из Excel. При импорте таблиц из Excel рекомендуется обращать внимание на их ширину и размеры. Если таблица сложная, она, возможно, будет плохо загружаться у посетителей сайта из-за разных браузеров и размеров монитора.</p>
+<p>В случае если таблица слишком велика для сайта, ее можно представить в качестве ссылки для скачивания, загрузив файл с прайс-листом в систему управления.</p>
+<p>Пример заполнения страницы:</p>
+<div class="">
+<div class=""><table class="table" style="width: auto;">
+<tbody>
+<tr>
+<th>№</th>
+<th>Наименование товара</th>
+<th>Цена (руб.)</th>
+<th>Цена от 25 шт. (руб.)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Товар/Услуга 1</td>
+<td>80</td>
+<td>65</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Товар/Услуга 2</td>
+<td>80</td>
+<td>65</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Товар/Услуга 3</td>
+<td>80</td>
+<td>65</td>
+</tr>
+</tbody>
+</table></div>
+<p>или</p>
+<p>Скачать прайс-лист (ССЫЛКА НА ФАЙЛ!)</p>
+</div>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[prais-list]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Фотогалерея</title>
+		<link>http://shabloner.ru/2020/11/17/fotogalereia/</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?page_id=31</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Для фотогалереи рекомендуем использовать плагин&nbsp;<a href="https://ru.wordpress.org/plugins/nextgen-gallery/" target="_blank" rel="noopener">NextGEN</a></p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[fotogalereia]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+
+	<item>
+		<title>Главная</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=32</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[32]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>О компании</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=33</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[33]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Наши специалисты</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=34</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[34]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Отзывы о нас</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=35</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[35]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Услуги</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=36</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[36]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Юридическим лицам</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=37</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[37]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Арбитражные споры</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=38</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[38]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Юридическое сопровождение ТСЖ, ЖСК, УК</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=39</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[39]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Юридическое сопровождение организации</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[40]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Защита интеллектуальной собственности</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=41</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>41</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[41]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Недвижимость, земля</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=42</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[42]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Защита деловой репутации</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=43</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>43</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[43]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Досудебное урегулирование</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=44</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[44]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>13</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Исполнительное производство</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=45</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[45]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>14</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Физическим лицам</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[46]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Наследственные споры</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=47</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[47]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Автоюрист</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=48</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[48]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>17</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Трудовые споры</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=49</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[49]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>18</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Семейные дела</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=50</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[50]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>19</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Споры с банками</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=51</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[51]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>20</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Споры со страховыми компаниями</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=52</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[52]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>21</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Защита прав потребителей</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=53</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[53]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>22</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Авторское право</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=54</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[54]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>23</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[27]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Новости</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=55</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[55]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>24</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Акции</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=56</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[56]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>25</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Контакты</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=57</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[57]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>26</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_main"><![CDATA[Главное меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Акции</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=58</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[58]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>27</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_second"><![CDATA[Второе меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Прайс-лист</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=59</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[59]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>28</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_second"><![CDATA[Второе меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Новости</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=60</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[60]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>29</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_second"><![CDATA[Второе меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Статьи</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=61</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[61]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>30</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_second"><![CDATA[Второе меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Фотогалерея</title>
+		<link>http://shabloner.ru/2020/11/17//</link>
+		<pubDate>Tue, 17 Nov 2020 13:46:11 +0300</pubDate>
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<guid isPermaLink="false">http://shabloner.ru/?p=62</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-17 13:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-17 13:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[62]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>31</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu_second"><![CDATA[Второе меню]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+
+</channel>
+</rss>

@@ -1,0 +1,27 @@
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="notransform t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+<div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false">
+	<div class="flexslider">
+		<div class="slider-wrap">
+		    {items}
+			<div class="slide">
+				<div class="testi-image">
+					<a href="#"><img src="{image}"></a>
+				</div>
+				<div class="testi-content">
+					<p>{text}</p>
+    				{if_exists:title}
+					<div class="testi-meta">
+						{title}
+					</div>
+    				{/if_exists:title}
+				</div>
+			</div>
+            {/items}
+			
+		</div>
+	</div>
+</div>

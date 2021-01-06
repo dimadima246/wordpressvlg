@@ -1,0 +1,11 @@
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="notransform t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+<div class="accordion accordion-border clearfix" data-state="closed">
+{items}
+	<div class="acctitle"><i class="acc-closed {field_1}"></i>{if_exists:field_1}<i class="acc-open {field_1}"></i>{/if_exists:field_1}{title}</div>
+	<div class="acc_content clearfix">{text}</div>
+{/items}
+</div>

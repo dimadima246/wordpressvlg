@@ -1,0 +1,19 @@
+<div class="heading-block divcenter center" style="max-width: 600px">
+{if_exists:title}<h2 class="notransform t600 mb-2" style="">{title}</h2>{/if_exists:title}
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+
+<div class="row height-categories clearfix">	
+{items}
+<div class="col-lg-4">
+<a href="{url}" style="background: url('{image}">
+<div class="vertical-middle dark center" style="position: absolute; top: 50%; width: 100%; padding-top: 0px; padding-bottom: 0px; margin-top: -19.5px;">
+<div class="heading-block nomargin noborder">
+<h3 class="capitalize font-secondary nott t500">{title}</h3>
+</div>
+</div>
+</a>
+</div>
+{clear:3}
+{/items}	
+</div>	

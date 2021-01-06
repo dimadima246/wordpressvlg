@@ -1,0 +1,19 @@
+{if_exists:title}
+<div class="heading-block divcenter center" style="max-width: 600px">
+<h2 class="notransform t600 mb-2" style="">{title}</h2>
+{if_exists:text}<p>{text}</p>{/if_exists:text}
+</div>
+{/if_exists:title}
+
+{items}
+<div class="col_one_third {alternate:col_last:3} nobottommargin">
+	<div class="feature-box fbox-outline fbox-dark fbox-effect">
+		<div class="fbox-icon">
+			<a href="{url}"><i class="{field_1} i-alt"></i></a>
+		</div>
+		<a href="{url}"><h3>{title}</h3></a>
+		{if_exists:text}<p>{text}</p>{/if_exists:text}
+	</div>
+</div>
+{clear:3}
+{/items}
